@@ -20,4 +20,4 @@ Collectables and interactive objects
 
 ![alt text](https://i.imgur.com/lcMod3i.png)
 
-Logic gate minigame starts upon interaction. Using the cursor the player is required to turn the end node green by connecting the start nodes to it through logic gates.
+Logic gate minigame. Using the cursor the player is required to turn the end node green by connecting the start nodes to it with the use of logic gates.
