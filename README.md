@@ -15,7 +15,9 @@ Sprite running animation
 Screenshot
 
 ![alt text](https://i.imgur.com/inI978W.png)
+
 Collectables and interactive objects
 
 ![alt text](https://i.imgur.com/lcMod3i.png)
+
 Logic gate minigame starts upon interaction
