@@ -1,5 +1,5 @@
 # EchoEscape
-A straightforward platformer game incorporating enemies, collectibles, and doors locked behind logic gate puzzles.
+A straightforward platformer game made in GameMaker incorporating enemies, collectibles, and doors locked behind logic gate puzzles.
 
 The game is a 2D side scrolling platformer action-adventure game with Metroidvania elements interwoven into its core gameplay. 
 The game follows the story of a nameless protagonist, who is made out to be a secret agent for an organization tasked with escaping from a heavily armed facility after a mission went bad. 
